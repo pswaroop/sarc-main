@@ -226,7 +226,7 @@ export function Footer() {
           <div className="space-y-4">
             <Link href="/" className="flex items-center gap-2">
               <Image
-                src="/images/staffarc-logo.png"
+                src="/images/Staffarc-logo.png"
                 alt="StaffArc Logo"
                 width={36}
                 height={36}
