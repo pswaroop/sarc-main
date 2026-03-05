@@ -63,7 +63,7 @@ export function Navbar() {
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
         <Link href="/" className="flex items-center gap-2">
           <Image
-            src="/images/staffarc-logo.png"
+            src="/images/Staffarc-logo.png"
             alt="StaffArc Logo"
             width={40}
             height={40}
