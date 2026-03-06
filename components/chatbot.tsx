@@ -2559,7 +2559,7 @@ export function ChatBot() {
             <div className="flex items-center gap-3">
               <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-white/20 backdrop-blur-sm shadow-inner border border-white/20">
                 <Image
-                  src="/images/staffarc-logo.png"
+                  src="/images/Staffarc-logo.png"
                   alt="ARC AI BOT"
                   width={28}
                   height={28}
