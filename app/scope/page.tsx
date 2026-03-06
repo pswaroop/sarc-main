@@ -2755,7 +2755,7 @@ export default function GetRequirementsPage() {
           <div className="flex items-center gap-4">
             <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-white/20 shadow-inner border border-white/20 backdrop-blur-sm">
               <Image
-                src="/images/staffarc-logo.png"
+                src="/images/Staffarc-logo.png"
                 alt={BOT_NAME}
                 width={32}
                 height={32}
